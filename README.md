@@ -9,4 +9,4 @@ The user input automatically converts vowels followed by 1/2/3/4 into tonal char
 
 4 = faling, adds a grave accent ˋ
 
-![Pinyin](https://https://github.com/BaranCanOener/Pinyin-Vocabulary-Learning/blob/master/screenshot.PNG)
+![Pinyin](https://github.com/BaranCanOener/Pinyin-Vocabulary-Learning/blob/main/screenshot.PNG)
